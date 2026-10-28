@@ -1,0 +1,3 @@
+hamburguesa;10000
+papas;5000
+hamburguesa;12000

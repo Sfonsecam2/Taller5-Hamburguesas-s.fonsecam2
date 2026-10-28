@@ -1,0 +1,2 @@
+combo sencillo;10%;hamburguesa;papas
+combo sencillo;15%;hamburguesa;gaseosa

@@ -1,0 +1,4 @@
+hamburguesa;10000
+
+papas;5000
+gaseosa;4000
